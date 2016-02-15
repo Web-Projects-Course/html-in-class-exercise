@@ -46,7 +46,7 @@ Now that we have tags most everything on the page. Lets add some tags to emphasi
 
 HTML has tags for both ordered(numbered) and unordered(bulleted) lists. The series of ailments near the top is perfect for an unordered list. 
 
-* **Research how to use an *&lt;ol&gt;* tag to make a bulleted list at http://www.w3schools.com**
+* **Research how to use an *&lt;ol&gt;* tag to make a bulleted list at http://www.w3schools.com/tags/**
 * **Mark the series of ailments near the top of the page as a list**
 
 *http://www.w3schools.com is a great reference for this course with both tutorials and definitions for HTML, CSS and JavaScript terms.*
@@ -59,13 +59,15 @@ We have defined the heirarchy of most of the text on the page. Now lets add an i
 * **Add an image tag with the src set to "engraving.jpg" just below the paragraph ending "... both in London and the Provinces." **
 * **Add an "alt" attribute to the image tag that gives a short description of the image.**
 
-#### 9. Add a doctype
+---
+##Bonus tasks
 
-#### 10. Add a html tag
+If you have time, research (http://www.w3schools.com/tags/) the following items and add them to the page. If you get stuck aren't sure the point of all these tags, don't worry. We will talk more about them next week.
 
-#### 11. Add a body tag
-
-#### 12. Add head and title tags
+* **Add a *&lt;!DOCTYPE &gt;* tag to the document**
+* **Add a *&lt;html&gt;* tag**
+* **Add a *&lt;body&gt;* tag**
+* **Add *&lt;head&gt;* and *&lt;title&gt;* tags**
 
 
 
