@@ -32,9 +32,10 @@ For normal text the *&lt;p&gt;* tag or paragraph helps group text.
 
 #### 5. Nested tags
 
-Now that we have tags most everything on the page. Lets add some tags to emphasize certain content. Paragraph and heading tags are known as *block* tags. Which means they create a block or box around their content. In our simple page this simple means a newline with some space between it and the next element. You can also create inline elements, which can surround an element without moving it to a new line.
+Now that we have tags most everything on the page. Lets add some tags to emphasize certain content. Paragraph and heading tags are known as *block* tags. Which means they create a block or box around their content. In our simple page this means a newline with some space between it and the next element. You can also create inline elements, which can surround an element without moving it to a new line.
 
-Lets use two inline tags to draw attention to some of the text on the page.
+* **Use the *&lt;strong&gt;* tag to make the word "free" in the "Inspection of the machines..." paragraph stand out.
+* **Use the *&lt;em&gt;* tag to emphasize the address in the final paragraph.
 
 
 
