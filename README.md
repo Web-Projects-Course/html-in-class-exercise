@@ -35,7 +35,38 @@ For normal text the *&lt;p&gt;* tag or paragraph helps group text.
 Now that we have tags most everything on the page. Lets add some tags to emphasize certain content. Paragraph and heading tags are known as *block* tags. Which means they create a block or box around their content. In our simple page this means a newline with some space between it and the next element. You can also create inline elements, which can surround an element without moving it to a new line.
 
 * **Use the *&lt;strong&gt;* tag to make the word "free" in the "Inspection of the machines..." paragraph stand out.**
-* **Use the *&lt;em&gt;* tag to emphasize the address in the final paragraph.**
+
+#### 6. Add a link
+
+* **Use an anchor tag to create a link from the address in the final paragraph to [this Google Map](https://www.google.com/maps/place/7+Soho+Square,+Soho,+London+W1D+3QB,+UK/@51.5156278,-0.1356578,17z/data=!3m1!4b1!4m2!3m1!1s0x48761b2cc7d02d9f:0x705118394b7a3bad) of that address.**
+
+*Remember that when linking to another website in HTML. You must include the full url including "http://" at the beginning.*
+
+#### 7. Mark the ailments as a list.
+
+HTML has tags for both ordered(numbered) and unordered(bulleted) lists. The series of ailments near the top is perfect for an unordered list. 
+
+* **Research how to use an *&lt;ol&gt;* tag to make a bulleted list at http://www.w3schools.com**
+* **Mark the series of ailments near the top of the page as a list**
+
+*http://www.w3schools.com is a great reference for this course with both tutorials and definitions for HTML, CSS and JavaScript terms.*
+
+
+#### 8. Insert an image.
+
+We have defined the heirarchy of most of the text on the page. Now lets add an image to show off our fancy exercise equipment.
+
+* **Add an image tag with the src set to "engraving.jpg" just below the paragraph ending "... both in London and the Provinces." **
+* **Add an "alt" attribute to the image tag that gives a short description of the image.**
+
+#### 9. Add a doctype
+
+#### 10. Add a html tag
+
+#### 11. Add a body tag
+
+#### 12. Add head and title tags
+
 
 
 
