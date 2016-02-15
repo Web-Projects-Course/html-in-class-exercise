@@ -1,6 +1,6 @@
 # HTML in-class  exercise
 
-Now that you have a little sense of how HTML works, you can try it out for yourself. We will be working in the prestigious world of online advertising today, trying to sell some exercise equipment from the 1800's. 
+Now that you have a sense of how HTML works, you can try it out for yourself. We will be working in the prestigious world of online advertising today, trying to sell some exercise equipment from the 1800's. 
 
 You will be using the "mechanical_exercise.html" document to start. There is nothing special about this document. It is just a plain text document with the extension ".html". 
 
@@ -62,14 +62,9 @@ We have defined the heirarchy of most of the text on the page. Now lets add an i
 ---
 ##Bonus tasks
 
-If you have time, research (http://www.w3schools.com/tags/) the following items and add them to the page. If you get stuck aren't sure the point of all these tags, don't worry. We will talk more about them next week.
+If you have time, research (http://www.w3schools.com/tags/) the following items and add them to the page. If you get stuck or aren't sure the point of all these tags, don't worry. We will talk more about them next week.
 
 * **Add a *&lt;!DOCTYPE &gt;* tag to the document**
 * **Add a *&lt;html&gt;* tag**
 * **Add a *&lt;body&gt;* tag**
 * **Add *&lt;head&gt;* and *&lt;title&gt;* tags**
-
-
-
-
-
