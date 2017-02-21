@@ -38,7 +38,8 @@ Now that we have tags most everything on the page. Lets add some tags to emphasi
 
 #### 6. Add a link
 
-* **Use an anchor tag to create a link from the address in the final paragraph to [this Google Map](https://www.google.com/maps/place/7+Soho+Square,+Soho,+London+W1D+3QB,+UK/@51.5156278,-0.1356578,17z/data=!3m1!4b1!4m2!3m1!1s0x48761b2cc7d02d9f:0x705118394b7a3bad) of that address.**
+* **Use an anchor tag to create a link from the final line ("Zander Institution, 7, Soho Square, W.C
+") to [this Google Map](https://www.google.com/maps/place/7+Soho+Square,+Soho,+London+W1D+3QB,+UK/@51.5156278,-0.1356578,17z/data=!3m1!4b1!4m2!3m1!1s0x48761b2cc7d02d9f:0x705118394b7a3bad) of that address.**
 
 *Remember that when linking to another website in HTML. You must include the full url including "http://" at the beginning.*
 
