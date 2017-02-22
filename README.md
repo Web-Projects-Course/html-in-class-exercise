@@ -32,14 +32,15 @@ For normal text the *&lt;p&gt;* tag or paragraph helps group text.
 
 #### 5. Nested tags
 
-Now that we have tags most everything on the page. Lets add some tags to emphasize certain content. Paragraph and heading tags are known as *block* tags. Which means they create a block or box around their content. In our simple page this means a newline with some space between it and the next element. You can also create inline elements, which can surround an element without moving it to a new line.
+Now that we have tags for most everything on the page. Lets add some tags to emphasize certain content. Paragraph and heading tags are known as *block* tags. Which means they create a block or box around their content. In our simple page this means a newline with some space between it and the next element. You can also create inline elements, which can surround an element without moving it to a new line.
 
 * **Use the *&lt;strong&gt;* tag to make the word "free" in the "Inspection of the machines..." paragraph stand out.**
 
 #### 6. Add a link
 
-* **Use an anchor tag to create a link from the final line ("Zander Institution, 7, Soho Square, W.C
-") to [this Google Map](https://www.google.com/maps/place/7+Soho+Square,+Soho,+London+W1D+3QB,+UK/@51.5156278,-0.1356578,17z/data=!3m1!4b1!4m2!3m1!1s0x48761b2cc7d02d9f:0x705118394b7a3bad) of that address.**
+* **Use an anchor tag or *&lt;a&gt;* to create a link from the final line: *"Zander Institution, 7, Soho Square, W.C"* to [this Google Map](https://www.google.com/maps/place/7+Soho+Square,+Soho,+London+W1D+3QB,+UK/@51.5156278,-0.1356578,17z/data=!3m1!4b1!4m2!3m1!1s0x48761b2cc7d02d9f:0x705118394b7a3bad) of that address.**
+
+You can read more about the *&lt;a&gt;* [here.](https://www.w3schools.com/TAGs/tag_a.asp)
 
 *Remember that when linking to another website in HTML. You must include the full url including "http://" at the beginning.*
 
