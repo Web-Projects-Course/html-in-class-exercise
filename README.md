@@ -12,6 +12,8 @@ You can see there is some text there, but it looks a little planer than most web
 
 You should see the same plane text. This is actually the beauty of HTML. At its heart its just text. We will now use our new knowledge of HTML tags to give that text some context and meaning.
 
+Because Brackets is designed for web developers rather than open an individual file Brackets works best on a whole folder or directory, which contains all the files of your website. In the *File* menu choose *"Open folder"* and open the unzipped "HTML in-class exercise" folder.
+
 ### 3. Create headings
 
 In HTML headings are defined in a numbered hierarchy: *&lt;h1&gt;* to *&lt;h6&gt;* with *&lt;h1&gt;* being the most important heading on the page, and consequently the biggest.
